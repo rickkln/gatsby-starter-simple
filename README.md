@@ -27,6 +27,8 @@ This is a simple starter for [Gatsby](https://www.gatsbyjs.org) based on on the 
 
 1. [Blog posts](https://gatsby-starter-simple.web.app/blog/example-post) are implemented from the start via Gatsby dynamic pages, you can simply add any markdown file to the posts directory with the appropriate frontmatter.
 
+1. Mobile and Desktop Navigation are implemented via bottom navigation support on mobile resolutions.
+
 ## 🚀 Quick start
 
 1.  **Fork or clone this repository.**
