@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.rickkln.com">
-    <img alt="rickkln" src="https://github.com/rickkln/rickkln/blob/master/src/images/rickkln-circle.png?raw=true" width="180" />
+  <a href="https://www.gatsbyjs.org/starters">
+    <img alt="gatsby" src="https://github.com/rickkln/gatsby-starter-simple/blob/master/src/images/gatsby-icon.png?raw=true" width="180" />
   </a>
 </p>
 
