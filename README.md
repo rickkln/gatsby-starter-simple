@@ -14,6 +14,7 @@ This is a simple starter for [Gatsby](https://www.gatsbyjs.org) based on on the 
 - Demo for this starter: [simple.rickkln.com](https://simple.rickkln.com)
 - My personal site: [rickkln.com](https://rickkln.com)
 - This Coronavirus Pandemic Tracker: [corona.rickkln.com](https://corona.rickkln.com)
+- This farewell page: [baobablogic.com](https://www.baobablogic.com)
  
 ## 🔃 Comparison with the default Gatsby starter
 
